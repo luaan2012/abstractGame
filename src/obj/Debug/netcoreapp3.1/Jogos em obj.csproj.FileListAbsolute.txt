@@ -1,0 +1,13 @@
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\bin\Debug\netcoreapp3.1\Jogos em obj.exe
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\bin\Debug\netcoreapp3.1\Jogos em obj.deps.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\bin\Debug\netcoreapp3.1\Jogos em obj.runtimeconfig.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\bin\Debug\netcoreapp3.1\Jogos em obj.runtimeconfig.dev.json
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\bin\Debug\netcoreapp3.1\Jogos em obj.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\bin\Debug\netcoreapp3.1\Jogos em obj.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\obj\Debug\netcoreapp3.1\Jogos em obj.csprojAssemblyReference.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\obj\Debug\netcoreapp3.1\Jogos em obj.AssemblyInfoInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\obj\Debug\netcoreapp3.1\Jogos em obj.AssemblyInfo.cs
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\obj\Debug\netcoreapp3.1\Jogos em obj.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\obj\Debug\netcoreapp3.1\Jogos em obj.dll
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\obj\Debug\netcoreapp3.1\Jogos em obj.pdb
+C:\Users\ThinkPad L14\Documents\Dio bootcamp\Jogos em obj\src\obj\Debug\netcoreapp3.1\Jogos em obj.genruntimeconfig.cache
